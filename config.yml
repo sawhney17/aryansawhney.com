@@ -1,0 +1,40 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: Aryan Sawhney
+theme: "PaperMod"
+
+params:
+    homeInfoParams:
+        Title: Hello World 👋
+        Content: Content about Logseq and other cool stuff :)
+
+    socialIcons: # optional
+        - name: "github"
+          url: "https://github.com/sawhney17/"
+        - name: "youtube"
+          url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
+        - name: "twitter"
+          url: "<https://twitter.com/aryansawhney17/>"
+    ShowReadingTime: true
+    author: "Aryan Sawhney"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+menu:
+    main:
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+        - identifier: search
+          name: Search
+          url: /search/
+          weight: 20
