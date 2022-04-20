@@ -13,7 +13,7 @@ categories: logseq
 date: 2022-04-20
 lastMod: 2022-04-20
 ---
-
+{{< youtube aYSbvGgLo9s >}}
 
 An area that has traditionally been described as one of Logseq's weak points is long form writing, however, with the right setup, it's very much possible to get an _excellent_ writing experience
 
