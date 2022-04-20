@@ -10,13 +10,15 @@ params:
 
     socialIcons: # optional
         - name: "github"
-          url: "https://github.com/sawhney17/"
+          url: "https://github.com/sawhney17"
         - name: "youtube"
           url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
         - name: "twitter"
-          url: "<https://twitter.com/aryansawhney17/>"
-        - name: "buymeacoffee"
-          url: "<https://buymeacoffee.com/sawhney17>"
+          url: "https://twitter.com/aryansawhney17"
+        - name: "kofi" 
+          url: "https://buymeacoffee.com/sawhney17"
+        - name: "rss"
+          url: "https://aryansawhney.com/index.xml"
     ShowReadingTime: true
     author: "Aryan Sawhney"
 
