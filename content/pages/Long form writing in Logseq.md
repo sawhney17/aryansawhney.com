@@ -1,6 +1,6 @@
 ---
 public: true
-type: article
+format: article
 tags:
 - logseq
 - writing
