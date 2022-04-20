@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Hello World 👋
-        Content: Content about Logseq and other cool stuff :)
+        Content: I am creating content about Logseq and more. Feel free to look around :)
 
     socialIcons: # optional
         - name: "github"
@@ -15,6 +15,8 @@ params:
           url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
         - name: "twitter"
           url: "<https://twitter.com/aryansawhney17/>"
+        - name: "buymeacoffee"
+          url: "<https://buymeacoffee.com/sawhney17>"
     ShowReadingTime: true
     author: "Aryan Sawhney"
 
@@ -37,4 +39,8 @@ menu:
         - identifier: search
           name: Search
           url: /search/
+          weight: 20
+        - identifier: archive
+          name: Archive
+          url: /archives/
           weight: 20

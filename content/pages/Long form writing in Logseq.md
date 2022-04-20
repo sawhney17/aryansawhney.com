@@ -9,12 +9,12 @@ tags:
 - workflows
 category: logseq
 title: Long form writing in Logseq
+ShowToc: true
 categories: logseq
 date: 2022-04-20
 lastMod: 2022-04-20
 ---
 {{< youtube aYSbvGgLo9s >}}
-
 An area that has traditionally been described as one of Logseq's weak points is long form writing, however, with the right setup, it's very much possible to get an _excellent_ writing experience
 
 While writing long form text, such as while scripting videos, I absolutely adore the experience of using both iA Writer and Ulysses. They're some of the best designed apps I've **ever** used and offer an unparalleled editing experience. At the same time, I absolutely love using Logseq and all my notetaking and outlining for videos happens there.
