@@ -129,6 +129,7 @@
 }
 
 .post-content table {
+    display: inline-table;
     margin-bottom: 32px;
 }
 
