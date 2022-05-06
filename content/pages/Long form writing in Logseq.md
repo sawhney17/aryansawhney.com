@@ -1,6 +1,6 @@
 ---
-public: true
 format: article
+showtoc: true
 tags:
 - logseq
 - writing
@@ -9,7 +9,6 @@ tags:
 - workflows
 category: logseq
 title: Long form writing in Logseq
-ShowToc: true
 categories: logseq
 date: 2022-04-20
 lastMod: 2022-04-20
