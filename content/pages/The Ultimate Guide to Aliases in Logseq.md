@@ -11,7 +11,7 @@ title: The Ultimate Guide to Aliases in Logseq
 categories: logseq
 format: article
 showtoc: true
-date: 2022-04-12
+date: 2022-05-06
 lastMod: 2022-05-06
 ---
 Aliases are a very powerful feature in logseq and can be used for a variety of workflows. This article will be divided into two parts: What is an Alias and How to use Aliases. Let's jump right in!
