@@ -9,6 +9,7 @@ category: logseq
 showtoc: true
 date: 2022-05-09
 title: Page Links vs Tags in Logseq
+description: Learn about the tips and tricks about the types of tags and page links. Also learn how to customize them via CSS.
 categories: logseq
 lastMod: 2022-05-09
 ---
