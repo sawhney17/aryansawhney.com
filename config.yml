@@ -9,6 +9,8 @@ params:
         Content: I'm a freshman at Brown University studying Applied Math and Computer Science. Feel free to look around and learn more about the things I'm building and learning :)
 
     socialIcons: # optional
+        - name: "calendly"
+          url: "https://calendly.com/aryan_sawhney"
         - name: "github"
           url: "https://github.com/sawhney17"
         - name: "linkedin"
