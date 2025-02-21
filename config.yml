@@ -6,11 +6,13 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Hello World 👋
-        Content: I am creating content about Logseq and more. Feel free to look around :)
+        Content: I'm a freshman at Brown University studying Applied Math and Computer Science. Feel free to look around and learn more about the things I'm building and learning :)
 
     socialIcons: # optional
         - name: "github"
           url: "https://github.com/sawhney17"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/aryan-sawhney-a852b1229/"
         - name: "youtube"
           url: "https://www.youtube.com/channel/UCjMJeOCEAG2XFtd9JvZwomw"
         - name: "twitter"
